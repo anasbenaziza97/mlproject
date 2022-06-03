@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anas/mlflow/examples/sklearn_elasticnet_wine/mlruns/0/808c3adecb364e21b046fda5458acd51/artifacts
+end_time: 1654254578582
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 808c3adecb364e21b046fda5458acd51
+run_uuid: 808c3adecb364e21b046fda5458acd51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1654254568634
+status: 3
+tags: []
+user_id: root

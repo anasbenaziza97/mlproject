@@ -9,5 +9,5 @@ RUN pip install mlflow>=1.0 \
     && pip install cloudpickle
 COPY . ./
 
-CMD python train.py
+CMD python train.py 0.9 0.9
 

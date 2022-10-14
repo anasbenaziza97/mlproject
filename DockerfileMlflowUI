@@ -8,7 +8,7 @@ RUN pip install mlflow>=1.0 \
     && pip install scikit-learn==0.24.2 \
     && pip install cloudpickle
 COPY . ./
-RUN python train.py 0.9 0.9
+RUN python train.py 0.92 0.92
 EXPOSE 5000
 
 CMD mlflow server -h 0.0.0.0
